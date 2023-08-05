@@ -14,7 +14,7 @@ My enthusiasm for learning and the diverse requirements of various projects led 
 
 ## Open-Source Contributions
 
-I am proud to contribute to the open-source community and maintain an active portfolio on GitHub (http://www.github.com/ehsan.ecc). Feel free to explore my projects, star your favorites, and engage with the code!
+I am proud to contribute to the open-source community and maintain an active portfolio on GitHub. Feel free to explore my projects, star your favorites, and engage with the code!
 
 [![GitHub stars](https://img.shields.io/github/stars/ehsanecc?style=social)](https://github.com/ehsanecc)
 <img src="https://komarev.com/ghpvc/?username=ehsanecc&color=brightgreen" alt="watching_count" />
